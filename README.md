@@ -48,3 +48,5 @@ for quote, author in zip(quotes[2], authors[2]):
 
 #### Exemplo de saída:
 “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.” - Albert Einstein
+
+<img src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" width="150">
